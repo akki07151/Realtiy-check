@@ -1,5 +1,5 @@
 alert("Hello! this is Akki");
-alert("this is going to be very funny game");
+alert("This is a reality check game");
 
 
 
